@@ -1,8 +1,11 @@
 # ARC_101_Graph_Network_ML
 
 source activate myenv
+
 pip install ipykernel
+
 python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
+
 ---
 
 # **Introduction to Graph Networks and the Evolution of Graph Machine Learning**
